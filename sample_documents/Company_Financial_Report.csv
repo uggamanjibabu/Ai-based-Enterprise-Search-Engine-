@@ -1,0 +1,7 @@
+Quarter,Department,Budget_Allocated_USD,Actual_Spend_USD,ARR_Contribution_USD,Headcount,Cost_Variance
+Q1 2025,Cloud Infrastructure,450000,428000,2800000,28,-4.8%
+Q2 2025,AI Research & RAG,620000,590000,4100000,35,-4.8%
+Q3 2025,Enterprise Sales,850000,880000,7500000,42,+3.5%
+Q4 2025,Customer Success,380000,365000,8900000,22,-3.9%
+Q1 2026,Security & Compliance,320000,310000,9800000,18,-3.1%
+Q2 2026,Product & Engineering,1150000,1120000,12400000,55,-2.6%

@@ -1,0 +1,16 @@
+NEXUS ENTERPRISE GLOBAL DATA PRIVACY & COMPLIANCE POLICY
+
+1. Legal & Regulatory Compliance
+NEXUS AI is committed to maintaining compliance with the General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA), and SOC 2 Type II criteria.
+
+2. Personally Identifiable Information (PII) Classification
+PII includes names, email addresses, phone numbers, IP addresses, financial account numbers, and biometric records. All PII collected during user interactions, search sessions, and enterprise document ingestion must be tokenized or pseudonymized before persistence.
+
+3. Encryption & Data Protection Standards
+All data in transit must be secured with TLS 1.3 cryptographic protocols. All customer databases, vector storage files, and document blobs must be encrypted at rest using AES-256 encryption. Encryption keys are rotated every 90 days via AWS KMS or HashiCorp Vault.
+
+4. Right to Erasure & Data Subject Access Requests (DSAR)
+Customers and enterprise employees have the right to request access to or permanent deletion of their indexed documents and search history. DSAR requests must be fulfilled by the Compliance Team within 30 calendar days of verification.
+
+5. Data Retention & Destruction
+Search query logs and telemetry are retained for 365 days for machine learning performance optimization and security auditing, after which they are automatically purged. When enterprise contracts terminate, tenant vector indexes and document stores are securely wiped within 14 days using DoD 5220.22-M sanitization standards.

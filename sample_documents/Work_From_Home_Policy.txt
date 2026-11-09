@@ -1,0 +1,16 @@
+NEXUS ENTERPRISE REMOTE WORK & WORK FROM HOME POLICY
+
+1. Overview
+NEXUS AI recognizes flexible working arrangements to enhance work-life balance and operational efficiency. This policy applies to all full-time salaried staff who have completed their initial 90-day onboarding period.
+
+2. Core Collaboration Hours
+To facilitate cross-functional teamwork across global time zones, all remote team members are expected to be available for synchronous communication on Slack, email, and Google Meet between 10:00 AM and 4:00 PM in their designated primary regional time zone.
+
+3. Home Office Setup & Equipment Stipend
+Full-time remote employees receive a one-time home office reimbursement of $1,500 for ergonomic chairs, standing desks, high-resolution monitors, and noise-canceling headsets. An ongoing monthly internet stipend of $80 is processed automatically with payroll.
+
+4. Confidentiality & Physical Security in Remote Environments
+When working from home, co-working spaces, or public locations, employees must ensure that computer screens are not visible to unauthorized persons. Using public, unencrypted Wi-Fi networks without activating the corporate WireGuard/Tailscale VPN is prohibited. Printing sensitive customer or financial data at home is strictly forbidden.
+
+5. Time Tracking & Performance Measurement
+Remote employees are evaluated based on sprint deliverables, objectives and key results (OKRs), and code/document output rather than continuous desk hours. Sick days and personal leaves must be logged through the HR portal at least 24 hours in advance, except in medical emergencies.
